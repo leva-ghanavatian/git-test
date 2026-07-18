@@ -1,1 +1,2 @@
 this method sorts an input array.
+it does it in both ascending and descending order.
